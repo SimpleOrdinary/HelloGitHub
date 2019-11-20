@@ -1,2 +1,6 @@
 hello git
+<<<<<<< HEAD
 lalala
+=======
+lalalalalla
+>>>>>>> master
